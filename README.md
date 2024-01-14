@@ -4,7 +4,7 @@
 
 💞️ Seeking collaborators and kindred spirits in the App Development sphere, Shivang is all about fostering innovation and pushing boundaries. 🤝 If you've got a project that marries technology with creativity, he's your go-to collaborator!
 
-📫 Ready to connect? Shoot an email to shivangclicks@gmail.com and embark on a journey where the rhythm of code meets the melody of creativity. Let's code, create, and conquer together! 🚀🎶✨ #TechInnovation #AppDevMaestro #CreativeCollaboration
+📫 Ready to connect? Shoot an email to shivangclicks@gmail.com and embark on a journey where the rhythm of code meets the melody of creativity. Let's code, create, and conquer together! 🚀🎶✨
 
 <!---
 imsg8/imsg8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
