@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=imsg8
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imsg8&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
