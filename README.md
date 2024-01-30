@@ -27,5 +27,4 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imsg8&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsg8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsg8&layout=compact&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
