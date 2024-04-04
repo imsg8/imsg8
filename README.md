@@ -1,10 +1,10 @@
-👋 Hey there, tech aficionados and creative minds! Meet @imsg8, aka Shivang Gulati — a dynamic force at the intersection of art, technology, and innovation. 🚀 With a passion for iOS App Development and AI, Shivang is on a thrilling journey of mastering the craft of App Development. 👀 Dive into his world, where lines of code and musical notes intertwine seamlessly.
+👋 Hey there, folks! It's me, @imsg8, also known as Shivang Gulati. I'm a very big tech enthusiast and a creative soul combined into a single person. 🚀 Right now, I'm a little knee-deep in iOS App Development and exploring the fascinating world of AI. It's a journey that's keeping awake at night, and I'm loving every minute of it, atleast till now. 👀
 
-🌱 Currently immersed in the fascinating realm of App Development, Shivang is not just a coding virtuoso but a multifaceted artist. As a music director-producer, photographer, podcaster, and an enthusiast of coding and mathematics, he brings a unique blend of creativity and precision to the table.
+But hey, there's more to me than just coding and tech! I've got this passion for music directing - producing, snapping photos - mostly wildlife, running a podcast, and yes, I've got a soft spot for numbers and math. It's like I've got one foot in the world of tech and the other in the realm of art and I don't wish to stumble at all.
 
-💞️ Seeking collaborators and kindred spirits in the App Development sphere, Shivang is all about fostering innovation and pushing boundaries. 🤝 If you've got a project that marries technology with creativity, he's your go-to collaborator!
+💞️ What really gets me going though is collaboration and getting to know perspectives. I'm all about teaming up with like-minded individuals who share my passion for pushing boundaries and coming up with innovative solutions. So, if you've got a project that's all about merging technology with creativity, I'm your go to guy!
 
-📫 Ready to connect? Shoot an email to shivangclicks@gmail.com and embark on a journey where the rhythm of code meets the melody of creativity. Let's code, create, and conquer together! 🚀🎶✨
+📫 Wanna connect? Shoot me an email at shivangclicks@gmail.com. Let's brainstorm, code, create, and conquer together, yayy! 🚀🎶✨
 
 <!---
 imsg8/imsg8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
