@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 <center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" alt="imsg8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=takshkothari&label=Profile%20views&color=0e75b6&style=flat" alt="imsg8" /> </p>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
