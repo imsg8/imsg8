@@ -1,10 +1,10 @@
-👋 Hey there, folks! It's me, @imsg8, also known as Shivang Gulati. I'm a very big tech enthusiast and a creative soul combined into a single person. 🚀 Right now, I'm a little knee-deep in iOS App Development and exploring the fascinating world of AI. It's a journey that's keeping awake at night, and I'm loving every minute of it, atleast till now. 👀
+👋 Hey there, folks! It's me, @imsg8, also known as Shivang Gulati. I'm a very big tech enthusiast and a creative soul combined into a single person. 🚀 Right now, I'm a little knee-deep in iOS App Development and exploring the fascinating world of AI. It is something that's keeping me awake at night, and I am loving every minute of it, hopefully, atleast till now lol. 👀
 
-But hey, there's more to me than just coding and tech! I've got this passion for music directing - producing, snapping photos - mostly wildlife, running a podcast, and yes, I've got a soft spot for numbers and math. It's like I've got one foot in the world of tech and the other in the realm of art and I don't wish to stumble at all.
+But hey, there's more to me than just coding and tech! I've got crazy huge passion for music directing - producing, snapping photos - mostly wildlife and sometimes people and portraits, running a podcast show that I started as a teenager, and yes, I've got a liking for numbers and math, though I don't score the top grade in it but anyway,, psst. It's like I've got one foot in the world of tech and the other in the realm of art and I don't wish to stumble at all, pray for me haha xD.
 
-💞️ What really gets me going though is collaboration and getting to know perspectives. I'm all about teaming up with like-minded individuals who share my passion for pushing boundaries and coming up with innovative solutions. So, if you've got a project that's all about merging technology with creativity, I'm your go to guy!
+💞️ What really gets me going though is collaboration and getting to know perspectives, how different people approach different things. I'm all about teaming up with like-minded individuals who share my passion for pushing boundaries and coming up with innovative solutions. So, if you've got a project that's all about merging technology with creativity, I'm your go to guy!
 
-📫 Wanna connect? Shoot me an email at shivangclicks@gmail.com. Let's brainstorm, code, create, and conquer together, yayy! 🚀🎶✨
+📫 Wanna connect? Shoot me an email at shivangclicks@gmail.com and I will try to reply at earliest convenience. Let's brainstorm, code, create, and conquer together, yayy! 🚀🎶✨
 
 <!---
 imsg8/imsg8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
