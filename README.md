@@ -6,14 +6,10 @@ There's more to me than just coding and tech! I've got a crazy huge passion for 
 
 📫 Wanna connect? Shoot me an email at shivangclicks@gmail.com and I will try to reply at your earliest convenience. Let's brainstorm, code, create, and conquer together, yayy! 🚀🎶✨
 
-<!---
-imsg8/imsg8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" alt="imsg8" />
+  <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" width="220" />
 </p>
+
 
 ---
 
