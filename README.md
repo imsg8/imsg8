@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Shivang's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsg8&theme=react-dark&hide_border=true&area=true)
 
+![](https://komarev.com/ghpvc/?username=imsg8&style=for-the-badge&color=blue)
 
 
 </center>
