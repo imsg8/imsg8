@@ -7,9 +7,8 @@ There's more to me than just coding and tech! I've got a crazy huge passion for 
 📫 Wanna connect? Shoot me an email at shivangclicks@gmail.com and I will try to reply at your earliest convenience. Let's brainstorm, code, create, and conquer together, yayy! 🚀🎶✨
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" width="220" />
+  <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" width="200" />
 </p>
-
 
 ---
 
