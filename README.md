@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=imsg8&label=Profile%20views&color=0e75b6&style=flat" alt="imsg8" />
 </p>
 
-### :hammer_and_wrench: Languages and Tools :
+---
+
+### <p align="center">🔧 Languages and Tools</p>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />
@@ -29,10 +31,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
 </p>
 
+---
+
+### <p align="center">📈 Activity Graph</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsg8&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+---
+
+### <p align="center">🧿 Profile Summary</p>
+
 <p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsg8&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsg8&theme=tokyonight" />
 </p>
+
+---
