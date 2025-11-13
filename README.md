@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### <p align="center">🧿 Profile Summary</p>
+### <p align="center">🚀 Profile Summary</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsg8&theme=tokyonight" />
