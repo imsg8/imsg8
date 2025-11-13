@@ -31,9 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsg8&layout=compact&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=imsg8&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Shivang's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsg8&theme=react-dark&hide_border=true&area=true)
 
-![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsg8&show_icons=true&theme=vision-friendly-dark)
 
 
 </center>
