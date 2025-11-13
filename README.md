@@ -33,3 +33,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsg8&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+![Code Frequency](https://ghchart.rshah.org/imsg8)
