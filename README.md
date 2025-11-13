@@ -34,13 +34,3 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsg8&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsg8&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsg8&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=imsg8&theme=tokyonight)
-
-
-![AI graph](https://github-readme-stats-salesp07.vercel.app/api?username=imsg8&theme=tokyonight&rank_icon=github)
-![Shivang PR Graph](https://github-readme-stats.vercel.app/api/pin/?username=imsg8&repo=YOUR_REPO_NAME&theme=tokyonight)
-<img src="https://metrics.lecoq.io/imsg8?template=classic&languages=1&isocalendar=1&lines=1&followup=1&activity=1&stars=1&habits=1&people=1&gists=1&achievements=1&notable=1&introduction=1" />
-
