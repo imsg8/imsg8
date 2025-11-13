@@ -41,5 +41,3 @@ There's more to me than just coding and tech! I've got a crazy huge passion for 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsg8&theme=tokyonight" />
 </p>
-
----
